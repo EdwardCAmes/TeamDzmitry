@@ -14,3 +14,6 @@ Example:
    3. Customers = their clients / trainees
 
 ## [Candidate](Candidate.md)
+
+## [Nonprofits](NonProfits.md)
+
