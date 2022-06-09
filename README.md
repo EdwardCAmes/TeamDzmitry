@@ -1,4 +1,4 @@
-# TeamDzmitry  - We need a team name change.
+# Arch Rangers
 
 **OReilly Architecture Kata Spring 2022**
 
@@ -50,3 +50,4 @@ Because money will be involved, much stricter security or integration with secur
    1) separate databases
 2) Microkernel
    1) rapid plug-in = non-profits
+   2) ![MicroKernel components](MicroKernel.jpg "MicroKernel components")
